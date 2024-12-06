@@ -17,7 +17,7 @@ Constraints
 * 1 ≤ A, X, Y ≤ 100
 
 
-SAMPLE 1 :::
+SAMPLE 1 :
 
 Input:  
 
