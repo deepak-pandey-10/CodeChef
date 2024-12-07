@@ -1,3 +1,6 @@
+Link to the problem:
+(https://www.codechef.com/problems/CHEFSOCKS)
+
 Chef needs A dollars to buy himself a new pair of socks for Christmas.
 
 If he has X dollars saved up and his parents give him an additional Y dollars, will Chef be able to buy new socks?
@@ -28,6 +31,3 @@ Output:
 YES
 
 
-Link to the problem:
-
-(https://www.codechef.com/problems/CHEFSOCKS)

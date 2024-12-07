@@ -1,3 +1,6 @@
+Link to the problem:
+(https://www.codechef.com/problems/BINARYSUM)
+
 Binary Sum
 
 You're given two Integers N and K. Your task is to determine if there exists a binary string S of length N such that:
@@ -63,6 +66,3 @@ Test case 2: It can be proved that no valid string S exists for N = 7 and K = 5.
 
 Test case 3: S = 101010101 is valid.
 
-Link to the problem:
-
-(https://www.codechef.com/problems/BINARYSUM)
